@@ -31,3 +31,9 @@ After filling out the inputs, you're ready to reveal. LFG REBELS!
 ```
 python reveal.py
 ```
+
+# 关于我
+
+我会在 Mirror 上写一些`数字货币科学家`相关的话题，欢迎关注我：
+- Twitter: [june023_eth](https://twitter.com/june023_eth)
+- Mirror: [june023_eth](https://mirror.xyz/june023.eth/-f0ojvJJZcza07y2wlWcEVTI5iA6QEXX5pJDbRMaI34)
