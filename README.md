@@ -23,7 +23,7 @@ Modify the inputs in `reveal.py`
     - in the end, you should have a list of id, e.g., [1, 2, 3]
 - `maxFeePerGas` and `maxPriorityFeePerGas` are the eth gas parameters. To get the market gas price, check [here](https://etherscan.io/gastracker)
 
-After filling out the inputs, you're ready to reveal.  
+After filling out the inputs, you're ready to reveal. LFG REBELS!  
 
 ```
 python reveal.py
