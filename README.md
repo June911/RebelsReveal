@@ -1,6 +1,6 @@
 # Rebels Reveal 
 
-This repository calls the `reveal` function in [rebels contract](https://etherscan.io/token0xe9fca552b9eb110c2d170962af740725f71f5644#writeContract). Of course, you can reveal the rebels' cards on [https://rebels.art/reveal/connect](https://rebels.art/reveal/connect), but it does not give the option to reveal multiple cards in a single transaction. Here, this Repo calls the `reveal` function, which can reveal multiple cards in a single transaction. For those of you who have multiple cards in your wallet and want to save money on gas and, this repo is for you.
+This repository calls the `reveal` function in [rebels contract](https://etherscan.io/address/0xe9fca552b9eb110c2d170962af740725f71f5644). Of course, you can reveal the rebels' cards on [https://rebels.art/reveal/connect](https://rebels.art/reveal/connect), but it does not give the option to reveal multiple cards in a single transaction. Here, this Repo calls the `reveal` function, which can reveal multiple cards in a single transaction. For those of you who have multiple cards in your wallet and want to save money on gas and, this repo is for you.
 
 
 ## Qucik Start 
